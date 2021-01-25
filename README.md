@@ -1,1 +1,1 @@
-# iris-classifier
+# knn-classifier-projects
